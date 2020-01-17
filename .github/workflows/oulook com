@@ -1,0 +1,20 @@
+name: CI
+MD SHAKIL MOLLA 
+on: [push]
+
+jobs:
+  build:
+untied Nations 
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1,ID4D@worldbankgurop.onmicrosoft.com
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |DBBL SOWFT COAD 101,
+      saving account number. 1011030370502
+        echo Add other actions to build,devolooer visa gurop
+        echo test, and deploy your project.
+        Wekmida, Devoloper of Visa Gurop
+        Digital identity of world bank Gurop
